@@ -1,0 +1,8 @@
+.user {
+  border-top: solid 1px var(--line);
+}
+
+.user img {
+  border: solid 1px white;
+  border-radius: 100%;
+}

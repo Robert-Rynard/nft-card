@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+
 :root {
   --primary: hsl(215, 51%, 70%);
   --secondary: hsl(178, 100%, 50%);
-  --main-bg: hsl(217, 54%, 11%);
+  --main-bg: hsl(216, 54%, 11%);
   --card-bg: hsl(216, 50%, 16%);
   --line: hsl(215, 32%, 27%);
   --fs: 18px;
@@ -16,13 +18,14 @@
 }
 
 .card {
-  text-align: left;
+  padding: 2.5rem;
 }
 
 .card__img {
   border-radius: var(--br);
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
+  margin: 0 auto;
 }
 
 .card__title {
@@ -36,6 +39,10 @@
   font-weight: var(--light);
 }
 
+.container {
+  display: flex;
+}
+
 .card__value {
   font-weight: var(--bold);
   color: var(--secondary);
@@ -43,4 +50,5 @@
 
 .card__time {
   margin-left: auto;
+  color: var(--primary);
 }
