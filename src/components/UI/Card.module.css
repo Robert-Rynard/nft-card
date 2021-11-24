@@ -1,0 +1,7 @@
+.card {
+  font-family: var(--font-family);
+  background-color: var(--card-bg);
+  margin: auto;
+  width: 50%;
+  border-radius: var(--br);
+}
