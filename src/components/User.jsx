@@ -6,7 +6,9 @@ const User = (props) => {
   return (
     <div className={styles.user}>
       <img src={image} alt="Profile" />
-      <span>Creation of Jules Wyvern</span>
+      <span>
+        Creation of <span className={styles.username}>Jules Wyvern</span>
+      </span>
     </div>
   );
 };

@@ -1,11 +1,17 @@
 import Card from "./components/UI/Card";
 import User from "./components/User";
 import image from "./images/image-equilibrium.jpg";
+import imgHoverIcon from "./images/icon-view.svg";
 
 export default function App() {
   return (
     <Card className="card">
-      <img src={image} alt="cube light prism" className="card__img" />
+      <div className="img-container">
+        <img src={image} alt="cube light prism" className="card__img" />
+        <div className="overlay">
+          <img className="hover-icon" src={imgHoverIcon} alt="eye icon" />
+        </div>
+      </div>
       <h2 className="card__title">Equilibrium #3429</h2>
       <p className="card__body">
         Our Equilibrium collection promotes balance and calm.
