@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Robert-Rynard/nft-card/static/css/main.a6c55956.chunk.css",
+    "main.js": "/Robert-Rynard/nft-card/static/js/main.f68ba05f.chunk.js",
+    "main.js.map": "/Robert-Rynard/nft-card/static/js/main.f68ba05f.chunk.js.map",
+    "runtime-main.js": "/Robert-Rynard/nft-card/static/js/runtime-main.ba1a4249.js",
+    "runtime-main.js.map": "/Robert-Rynard/nft-card/static/js/runtime-main.ba1a4249.js.map",
+    "static/js/2.bceafe5f.chunk.js": "/Robert-Rynard/nft-card/static/js/2.bceafe5f.chunk.js",
+    "static/js/2.bceafe5f.chunk.js.map": "/Robert-Rynard/nft-card/static/js/2.bceafe5f.chunk.js.map",
+    "static/js/3.1c7de751.chunk.js": "/Robert-Rynard/nft-card/static/js/3.1c7de751.chunk.js",
+    "static/js/3.1c7de751.chunk.js.map": "/Robert-Rynard/nft-card/static/js/3.1c7de751.chunk.js.map",
+    "index.html": "/Robert-Rynard/nft-card/index.html",
+    "static/css/main.a6c55956.chunk.css.map": "/Robert-Rynard/nft-card/static/css/main.a6c55956.chunk.css.map",
+    "static/js/2.bceafe5f.chunk.js.LICENSE.txt": "/Robert-Rynard/nft-card/static/js/2.bceafe5f.chunk.js.LICENSE.txt",
+    "static/media/icon-view.fedac551.svg": "/Robert-Rynard/nft-card/static/media/icon-view.fedac551.svg",
+    "static/media/image-equilibrium.88bdbc91.jpg": "/Robert-Rynard/nft-card/static/media/image-equilibrium.88bdbc91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba1a4249.js",
+    "static/js/2.bceafe5f.chunk.js",
+    "static/css/main.a6c55956.chunk.css",
+    "static/js/main.f68ba05f.chunk.js"
+  ]
+}
